@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-expt"
+  site-url: "https://amod99.github.io/nbdev-expt"
+  description: "experiment with nbdev module"
+  repo-branch: main
+  repo-url: "https://github.com/amod99/nbdev-expt"
